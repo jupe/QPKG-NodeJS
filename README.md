@@ -7,7 +7,7 @@ QPKG
 ===========
 QPKG files/applications makes it easy for [QNAP](http://www.qnap.com/) Turbo NAS to install and remove packages.
 
-last version 0.10.36..:
+last version 0.10.36
 
 download: ...
 
