@@ -13,4 +13,4 @@ download: ...
 
 
 ===========
-![image](https://github.com/jupe/QPKG-NodeJS/raw/master/icon/qpkg_640x400.png)
+![image](https://github.com/jupe/QPKG-NodeJS/raw/master/icon/nodejs_640x400.png)
